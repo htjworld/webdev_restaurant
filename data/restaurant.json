@@ -1,0 +1,26 @@
+[
+  {
+    "id": "r1",
+    "name": "HTJWORLD",
+    "address": "GITHUB",
+    "cuisine": "KOREAN",
+    "website": "https://www.github.com/htjworld",
+    "description": "YES IT'S AMAZING"
+  },
+  {
+    "id": "3e548a0d-3af8-415b-b232-4d80823b508d",
+    "name": "hello",
+    "address": "hello",
+    "cuisine": "Korean",
+    "website": "http://www.naver.com",
+    "description": "yes"
+  },
+  {
+    "name": "legend r",
+    "address": "idk",
+    "cuisine": "Europe",
+    "website": "http://www.naver.com",
+    "description": "Because it is Legend",
+    "id": "a45b6ae3-e3d5-416b-a0dd-4df5c5a59f46"
+  }
+]
